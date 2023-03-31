@@ -1,2 +1,2 @@
-# ecommerce-php-laravel
+# DESCONTINUADO
 Ecommerce project made in PHP Laravel
